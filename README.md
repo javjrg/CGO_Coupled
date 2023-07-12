@@ -7,7 +7,7 @@ Code repository for the **CGO solutions for coupled conductivity equations** pap
 ## Code
 The code implemented in Matlab computes the CGO solutions for coupled conductivity equations by solving a Beltrami system equivalent using Fast Fourier Transform (FFT) and GMRES.
 
-##  Manuscrip
+##  Manuscript
 The final manuscript is available from [Link](http://imar.ro/journals/Mathematical_Reports/Pdfs/2022/1-2/12.pdf)
 
 ## Abstract
